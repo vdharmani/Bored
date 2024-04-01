@@ -1,0 +1,98 @@
+PODS:
+  - Alamofire (5.6.4)
+  - AvailableHapticFeedback (1.0.4)
+  - Branch (1.45.2)
+  - BRYXBanner (0.8.4)
+  - GoogleMaps (8.0.0):
+    - GoogleMaps/Maps (= 8.0.0)
+  - GoogleMaps/Base (8.0.0)
+  - GoogleMaps/Maps (8.0.0):
+    - GoogleMaps/Base
+  - GooglePlaces (8.0.0)
+  - GrowingTextView (0.7.2)
+  - IQKeyboardManagerSwift (6.3.0)
+  - Kingfisher (7.7.0)
+  - Koloda (5.0.1):
+    - pop (~> 1.0)
+  - MultiSlider (2.1.2):
+    - AvailableHapticFeedback
+    - SweeterSwift
+  - pop (1.0.12)
+  - SDWebImage (5.14.2):
+    - SDWebImage/Core (= 5.14.2)
+  - SDWebImage/Core (5.14.2)
+  - Socket.IO-Client-Swift (15.1.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+  - SVProgressHUD (2.2.5)
+  - SweeterSwift (1.2.3)
+  - Swifter (2.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Branch
+  - BRYXBanner
+  - GoogleMaps
+  - GooglePlaces
+  - GrowingTextView
+  - IQKeyboardManagerSwift (= 6.3.0)
+  - Kingfisher (~> 7.0)
+  - Koloda
+  - MultiSlider
+  - SDWebImage
+  - Socket.IO-Client-Swift (~> 15.1.0)
+  - SVProgressHUD
+  - Swifter (from `https://github.com/mattdonnelly/Swifter.git`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AvailableHapticFeedback
+    - Branch
+    - BRYXBanner
+    - GoogleMaps
+    - GooglePlaces
+    - GrowingTextView
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Koloda
+    - MultiSlider
+    - pop
+    - SDWebImage
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SVProgressHUD
+    - SweeterSwift
+
+EXTERNAL SOURCES:
+  Swifter:
+    :git: https://github.com/mattdonnelly/Swifter.git
+
+CHECKOUT OPTIONS:
+  Swifter:
+    :commit: f6888d61500f46ca6d1814fe2624056339eda986
+    :git: https://github.com/mattdonnelly/Swifter.git
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  AvailableHapticFeedback: cd3cb476743764b3efe8645d25e6b359d375ddb0
+  Branch: c1a7fa1811ef9203c01bc6c2588a229eb3ee1a84
+  BRYXBanner: 4fbd266f96ce000e4c6cc9a0558c446bd88d9801
+  GoogleMaps: 0dce473ab18742d0f327887853630927cbee9127
+  GooglePlaces: 46231f49e2dc52aa9a604f99e2e6b29996f30cc7
+  GrowingTextView: 876bf42005b5e4a4fd740597db12caaf41f0fe6c
+  IQKeyboardManagerSwift: a8228c257614af98743b4cd8584637025f36358f
+  Kingfisher: f043ac666dfc96c1f37604f93effb45a7ee3a3e1
+  Koloda: d07b9199a383abc5898b62aa945a599f5e7c0c4b
+  MultiSlider: 81f5eb60f0a05073e6ee49c0b90426e4d1267b02
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  SDWebImage: b9a731e1d6307f44ca703b3976d18c24ca561e84
+  Socket.IO-Client-Swift: 7cb44c0ffb86e158cee32d0642d30ec5fdcf8f61
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SweeterSwift: 3910bab8ba35b6964d5169a3c52b2c87d930b61c
+  Swifter: 4c2f8cf320c2f751c10128f841d8e9bd8609d988
+
+PODFILE CHECKSUM: ae418414bd96aa1532f8f00c5487fff4e2d27189
+
+COCOAPODS: 1.11.3
